@@ -1,36 +1,19 @@
 # Modules
 
-Seed list from EG524701 typical structure. Official codes/credits to be filled after timetable issued.
+Official codes from EG524701 AY2026/27 handbook. Notion is the live tracker.
 
-## Year 1 targets
-- Mathematics for Mechanical Engineering I / II
-- Drawing and CAD
-- Mechanical Engineering Principles
-- Basic Electricity and Electronics
-- Engineering Materials
-- Statics & Dynamics
-- Vocational Chinese / Workplace Communication
-- Whole Person Development
-- Practical Training I
+## Exemption this term (PTE Sem 1)
+- EME3210 Fundamental Mathematics for ME
+- EME3211 Mathematics for ME I
+- EME3212 Drawing & CAD — partial only (ENGR 1204); still attend
 
-## Year 2 targets
-- Fluid Mechanics
-- Thermodynamics & Heat Transfer
-- Mechanics of Materials
-- Instrumentation & Control
-- Electrical Principles
-- Mechanical Engineering Design
-- Project Management
-- Practical Training II
+## Later exemption targets
+- EME3227 Statics & Dynamics (Sem 4)
+- EME4212 Mathematics for ME II (Sem 6)
+- EME4213 Engineering Dynamics (Sem 6) — watch double-count
+- EME4215 Mechanics of Materials (Sem 7)
+- EME4202 Fluid Mechanics (Sem 5)
+- EME4290 Industrial Attachment — PTE normally exempt
+- SDD WPD modules — work years + assessment
 
-## Year 3 targets
-- Electives (automation / marine / thermo-fluids etc.)
-- Industry-Based Student Project → design as workshop core equipment
-- Industrial Attachment
-
-Exemption candidates (BEng Civil + site work):
-- Engineering mathematics (partial)
-- Statics
-- Engineering drawing basics
-- Materials (partial)
-- Communication / WPD (maybe not)
+Do not claim: EME3228 / EME3229 on the back of ENGR 2405 D; EME2201 on CENG 4370 NC.
