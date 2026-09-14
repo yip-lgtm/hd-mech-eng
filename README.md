@@ -10,6 +10,14 @@ Private study + workshop project for **Higher Diploma in Mechanical Engineering*
 
 This HD is a **skill pack**, not a US PE / HK CEng substitute.
 
+## Live self-study site
+
+Public GitHub Pages lab (CAD, MATLAB, automation, curriculum):
+
+**https://yip-lgtm.github.io/hd-me-lab/**
+
+Source: [yip-lgtm/hd-me-lab](https://github.com/yip-lgtm/hd-me-lab) (public). This repo stays private notes only.
+
 ## Folders
 
 | Path | Use |
