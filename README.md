@@ -26,7 +26,9 @@ Source: [yip-lgtm/hd-me-lab](https://github.com/yip-lgtm/hd-me-lab) (public). Th
 | `modules/` | notes per unit |
 | `workshop/` | convert class knowledge into studio builds |
 | `calcs/` | hand calcs, spreadsheets |
-| `cad/` | drawings, models |
+| `cad/` | drawings, models, CAD self-study notes |
+| `automation/` | circuits → Kalman notes |
+| `electives/` | all 13 HD ME electives |
 
 ## First 30 days
 
