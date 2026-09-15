@@ -5,7 +5,7 @@
 - Type: Language · QF Level 3 · 6 credits
 - Hours (handbook): 18 contact + 42 self-study = 60 NLH
 - Status: Take the class
-- Exemption?: No — no matching prior module
+- Exemption?: 唔交
 
 ## Learning outcomes
 
@@ -33,3 +33,7 @@ None on HCC / UT Tyler transcripts. US composition and speech do not map to Puto
 ## Formulas
 
 - n/a
+
+## Decision lock · 2026-09-15
+
+唔交。Was listed on 00965 — email CS to withdraw LAN3003. Take the class.

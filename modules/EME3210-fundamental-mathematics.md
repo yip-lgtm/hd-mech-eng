@@ -4,8 +4,8 @@
 - Year / Term: Y1 · PTE Sem 1
 - Type: Core · QF Level 3 · 6 credits
 - Hours (handbook): 26 contact + 34 self-study = 60 NLH
-- Status: Exemption target — file this semester
-- Exemption?: Yes — primary claim
+- Status: File now (Calc I–II)
+- Exemption?: 而家交（Calc I–II）
 
 ## Learning outcomes
 
@@ -49,3 +49,7 @@ Attach: official HCC transcript + MATH 2413/2414 catalog descriptions.
 - $\sin\theta = opposite/hyp$; $\theta$ in rad $= \theta^\circ \times \pi/180$
 - $\log(ab)=\log a+\log b$; $a^{x}=e^{x\ln a}$
 - Linear: $y=mx+c$
+
+## Decision lock · 2026-09-15
+
+而家交（Calc I–II）。On IVE(TY)-2026-00965. Attend until the letter.

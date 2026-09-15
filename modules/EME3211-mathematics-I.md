@@ -4,8 +4,8 @@
 - Year / Term: Y1 · PTE Sem 1
 - Type: Core · QF Level 3 · 6 credits
 - Hours (handbook): 26 contact + 32 self-study + 2 assessment = 60 NLH
-- Status: Exemption target — file this semester
-- Exemption?: Yes — primary claim
+- Status: File now (Calc + DE + LA + Stats)
+- Exemption?: 而家交（Calc + DE + LA + Stats）
 
 ## Learning outcomes
 
@@ -50,3 +50,7 @@ Paste for exemption form:
 - $\frac{d}{dx}(uv)=u'v+uv'$; $\frac{d}{dx}\left(\frac{u}{v}\right)=\frac{u'v-uv'}{v^2}$
 - $\int x^n\,dx=\frac{x^{n+1}}{n+1}+C\quad(n\neq-1)$
 - $\frac{dy}{dx}=0$ at stationary points; check $d^2y/dx^2$
+
+## Decision lock · 2026-09-15
+
+而家交（Calc + DE + LA + Stats）。On IVE(TY)-2026-00965. ILO mapping, not catalogue auto.

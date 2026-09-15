@@ -25,3 +25,15 @@ Letter not out. 70% attendance or no end-of-module assessment.
 ## Not on this form (later)
 
 EME3227 S&D, EME4215 MoM, EME4202 Fluids, EME4212 Math II, SDD WPD (2-year FT + assessment), EME4290 IA.
+
+## Decision lock · 2026-09-15
+
+| Code | On 00965? | Lock |
+|---|---|---|
+| EME3210 | Yes | 而家交（Calc I–II） |
+| EME3211 | Yes | 而家交（Calc + DE + LA + Stats） |
+| EME3212 | Yes | 只部分（ENGR 1204）。照上課 |
+| LAN3003 | Yes | **唔交 — ask CS to withdraw this row** |
+| LAN3107 | No | 弱；ENGL／SPCH 頂多問 — stay off the form |
+
+See `admin/SEM1-DECISIONS.md` for the withdraw email.

@@ -4,8 +4,8 @@
 - Year / Term: Y1 · PTE Sem 1
 - Type: Core · QF Level 3 · 10 credits
 - Hours (handbook): 39 contact + 61 self-study = 100 NLH
-- Status: In class — partial exemption only
-- Exemption?: Partial / unlikely full. Attend.
+- Status: Partial (ENGR 1204). Attend.
+- Exemption?: 只部分（ENGR 1204）。照上課
 
 ## Learning outcomes
 
@@ -59,3 +59,7 @@ Later (Sem 8 EME4279) upgrade the same parts to 3D + GD&T.
 - Third-angle vs first-angle: confirm which IVE uses in week 1
 - Scale: 1:1, 1:2, 1:5 for shop parts
 - Basic fit language: H7/g6 etc. — learn when lecturer introduces it
+
+## Decision lock · 2026-09-15
+
+只部分（ENGR 1204）。照上課。Do not bank on a full exemption.

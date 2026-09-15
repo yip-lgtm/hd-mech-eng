@@ -5,7 +5,7 @@
 - Type: Language · QF Level 3 · 6 credits
 - Hours (handbook): 18 contact + 42 self-study = 60 NLH
 - Status: Take the class
-- Exemption?: Weak — ask only if CS invites language claims
+- Exemption?: 弱；ENGL／SPCH 頂多問
 
 ## Learning outcomes
 
@@ -42,3 +42,7 @@ Default: attend. 6 credits is cheap insurance vs a rejected language exemption.
 ## Formulas
 
 - n/a
+
+## Decision lock · 2026-09-15
+
+弱；ENGL／SPCH 頂多問。Do not add to 00965.
