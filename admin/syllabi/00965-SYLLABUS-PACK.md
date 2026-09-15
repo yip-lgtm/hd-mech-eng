@@ -52,3 +52,5 @@ No matching prior module on these transcripts. Do not invent a syllabus. Only up
 ## How to print
 
 Chrome → open the URL → Ctrl+P → Save as PDF → upload to MyPortal application 00965.
+
+Full official catalog wording + extra HCC courses: `admin/syllabi/HCC-CATALOG.md`.
