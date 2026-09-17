@@ -60,3 +60,7 @@ disp(F(end))             % must be 6.4
 - doc ode45 — 瀏覽器文件
 - simulink — 開庫
 - A\b — 解線性方程
+
+## Personal notes 個人筆記
+
+y=mx+c
